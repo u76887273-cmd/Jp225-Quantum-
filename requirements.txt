@@ -1,0 +1,5 @@
+pandas2.0.3
+numpy1.24.3
+scikit-learn1.2.2
+joblib1.3.2
+psycopg2-binary==2.9.9
