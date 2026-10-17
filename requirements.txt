@@ -1,5 +1,0 @@
-pandas2.0.3
-numpy1.24.3
-scikit-learn1.2.2
-joblib1.3.2
-psycopg[binary]==3.1.18
